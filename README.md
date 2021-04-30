@@ -3,9 +3,10 @@
  
 
 Building on mac and linux:
-  ¯\_(ツ)_/¯ 
+
+¯\_(ツ)_/¯ 
  
- I have no clue how to
+I have no clue how to
  
 Building on Window:
 
