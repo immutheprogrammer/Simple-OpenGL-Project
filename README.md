@@ -3,5 +3,10 @@
  
 
 Building on mac and linux:
+ ¯\_(ツ)_/¯ 
+ 
+ I have no clue how to
+ 
+Building on Window:
 
-¯\_(ツ)_/¯ 
+Download Visual Studio with the c++ extesion on and open the sln file then run it!
